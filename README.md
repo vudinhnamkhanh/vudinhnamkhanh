@@ -1,5 +1,5 @@
 ## 📝 About me
-Hi, i am Vũ Đình Nam Khánh you can call me. I come from Vietnam. My hobbies are programming, playing CTF ( capture the flags ) and love learning to program.
+Hi, i am Vũ Đình Nam Khánh you can call me Brian. I come from Vietnam. My hobbies are programming, playing CTF ( capture the flags ) and love learning to program.
 
 ---
 
