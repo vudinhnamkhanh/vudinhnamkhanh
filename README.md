@@ -1,5 +1,5 @@
 ## 📝 About me
-Hi, i am Vũ Đình Nam Khánh you can call me Brian. I come from Vietnam. My hobbies are programming, playing CTF ( capture the flags ) and love learning to program.
+Hi, i am XXXXXX you can call me Brian. I come from Vietnam. My hobbies are programming, playing CTF ( capture the flags ) and love learning to program.
 
 ---
 
@@ -12,7 +12,7 @@ Hi, i am Vũ Đình Nam Khánh you can call me Brian. I come from Vietnam. My ho
 
 ### ☕ Buy for me a coffee
 
-- [Momo Wallet: 0932711246 (PHAM THI HOA)](https://nhantien.momo.vn/0932711246)
+- [Momo Wallet: XXXXXX (XXXXXX)](https://nhantien.momo.vn)
 
 ---
 
