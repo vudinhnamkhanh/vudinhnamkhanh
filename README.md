@@ -8,14 +8,7 @@ Hi, i am XXXXXX you can call me Brian. I come from Vietnam. My hobbies are progr
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vudinhnamkhanh&count_private=true&show_icons=true&theme=tokyonight)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=vudinhnamkhanh&show_icons=true&theme=tokyonight_height=24&hide=stars&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudinhnamkhanh&layout=compact&theme=tokyonight_border=true" />
-</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vudinhnamkhanh&theme=dracula&margin-w=13&margin-h=15&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vudinhnamkhanh&theme=tokyonight&margion-w=13&margin-h=15&column=7&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
