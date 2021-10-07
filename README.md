@@ -19,8 +19,5 @@ Hi, i am Vu Dinh Nam Khanh you can call me Khanh Vu. I come from Vietnam. My hob
 ---
 
 ### 📫 Contact me
-[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&color=395693&logoColor=white)](\)
-[![Email](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&color=ff1800&logoColor=white)](mailto:\)
-[![Discord](https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&color=5037EA&logoColor=white)](https://discord.gg/UBv3TESZ)
-[![Instagram](https://img.shields.io/badge/IG-0077B5?style=for-the-badge&logo=instagram&color=F2344E&logoColor=white)](https://www.instagram.com/\.iq)
+
 
